@@ -1,12 +1,12 @@
 # 💻 Hardware & Gear Setup
 
-Daftar inventaris perangkat keras (Hardware) yang saya gunakan saat ini dan riwayat perangkat yang pernah saya miliki.
+A hardware inventory list of my current setup and a history of devices I have previously owned.
 
 ## 🖥️ Desktop Setup
 
 ### **Custom Build PC**
 
-| Komponen | Spesifikasi |
+| Component | Specifications |
 | --- | --- |
 | **CPU** | AMD Ryzen 5 5600 |
 | **GPU** | Asrock Radeon RX 6600 8GB |
@@ -40,7 +40,7 @@ Daftar inventaris perangkat keras (Hardware) yang saya gunakan saat ini dan riwa
 ### **Previous Keyboards**
 
 <details>
-<summary>Klik untuk melihat riwayat keyboard</summary>
+<summary>Click to view keyboard history</summary>
 
 * Noir N1/X
 * Fantech MAXFIT67
@@ -64,23 +64,35 @@ Daftar inventaris perangkat keras (Hardware) yang saya gunakan saat ini dan riwa
 
 ### **Previous Phones**
 
+<details>
+<summary>Click to view phone history</summary>
+
 * Xiaomi Redmi Note 6 Pro
 * Apple iPhone 5s
 * Xiaomi Redmi 3X
 * Lenovo A6000
 * OPPO Joy R1001
 
+</details>
+
 ---
 
 ## 🖱️ Mouse History
 
-* **Current:** Logitech G304
-* **Previous:** Fantech XD5 Helios GO, Logitech G103
+### **Current Mouse**
+
+* Logitech G304
+
+### **Previous Mice**
+
+<details>
+<summary>Click to view mouse history</summary>
+
+* Fantech XD5 Helios GO
+* Logitech G103
+
+</details>
 
 ---
 
-*Terakhir diperbarui: Februari 2026*
-
----
-
-Apakah kamu ingin saya menambahkan bagian khusus untuk deskripsi singkat atau alasan mengapa kamu memilih build PC tersebut?
+*Last updated: February 2026*
