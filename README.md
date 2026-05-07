@@ -3,12 +3,13 @@
 A personal archive of hardware, peripherals, and devices that have been used over time.  
 This repository serves as a reference for current setups, previously owned devices, and hardware history.
 
-> Status: Archived / Graveyard Repository  
-> This repository is maintained as a historical inventory and is not actively developed.
+> Archived repository containing current and previous hardware setups.
 
-# Desktop Setup
+---
 
-## Custom Build PC
+## Desktop Setup
+
+### Custom Build PC
 
 | Component | Specification |
 | --- | --- |
@@ -24,7 +25,7 @@ This repository serves as a reference for current setups, previously owned devic
 | Case | Venom RX Grom |
 | Fans | 2x Thermalright TL-C12C, 4x ID-COOLING XF-120-K |
 
-## Peripherals
+### Peripherals
 
 | Device | Model |
 | --- | --- |
@@ -32,11 +33,13 @@ This repository serves as a reference for current setups, previously owned devic
 | UPS | APC BVX900LI-MS |
 | Mouse | Logitech G304 Wireless |
 
-# Keyboard Collection
+---
 
-## Current Daily Driver
+## Keyboard Collection
 
-### Arisu+ R2
+### Current Daily Driver
+
+#### Arisu+ R2
 
 | Component | Specification |
 | --- | --- |
@@ -44,7 +47,7 @@ This repository serves as a reference for current setups, previously owned devic
 | Keycaps | Akko Matcha Red Bean PBT Double Shot ASA |
 | Stabilizers | Cherry Clip-In PCB Mount |
 
-## Previous Keyboards
+### Previous Keyboards
 
 <details>
 <summary>View keyboard history</summary>
@@ -60,16 +63,18 @@ This repository serves as a reference for current setups, previously owned devic
 
 </details>
 
-# Mobile Devices
+---
 
-## Current Phones
+## Mobile Devices
+
+### Current Phones
 
 | Device | Role |
 | --- | --- |
 | Samsung Galaxy A14 5G | Daily Driver |
 | Apple iPhone 8 | Secondary Device |
 
-## Previous Phones
+### Previous Phones
 
 <details>
 <summary>View phone history</summary>
@@ -82,13 +87,15 @@ This repository serves as a reference for current setups, previously owned devic
 
 </details>
 
-# Mouse History
+---
 
-## Current Mouse
+## Mouse History
+
+### Current Mouse
 
 - Logitech G304
 
-## Previous Mice
+### Previous Mice
 
 <details>
 <summary>View mouse history</summary>
@@ -98,10 +105,14 @@ This repository serves as a reference for current setups, previously owned devic
 
 </details>
 
-# Notes
+---
+
+## Notes
 
 - This repository is intended for archival and documentation purposes only.
 - Hardware lists may not always reflect real-time changes.
 - Specifications and device ownership history are documented manually.
+
+---
 
 Last updated: May 2026
