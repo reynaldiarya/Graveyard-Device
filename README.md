@@ -5,8 +5,6 @@ This repository serves as a reference for current setups, previously owned devic
 
 > Archived repository containing current and previous hardware setups.
 
----
-
 ## Desktop Setup
 
 ### Custom Build PC
@@ -32,8 +30,6 @@ This repository serves as a reference for current setups, previously owned devic
 | Monitors | 2x ViewSonic VA2432-H |
 | UPS | APC BVX900LI-MS |
 | Mouse | Logitech G304 Wireless |
-
----
 
 ## Keyboard Collection
 
@@ -63,8 +59,6 @@ This repository serves as a reference for current setups, previously owned devic
 
 </details>
 
----
-
 ## Mobile Devices
 
 ### Current Phones
@@ -87,8 +81,6 @@ This repository serves as a reference for current setups, previously owned devic
 
 </details>
 
----
-
 ## Mouse History
 
 ### Current Mouse
@@ -105,14 +97,10 @@ This repository serves as a reference for current setups, previously owned devic
 
 </details>
 
----
-
 ## Notes
 
 - This repository is intended for archival and documentation purposes only.
 - Hardware lists may not always reflect real-time changes.
 - Specifications and device ownership history are documented manually.
-
----
 
 Last updated: May 2026
